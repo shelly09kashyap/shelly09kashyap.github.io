@@ -83,9 +83,6 @@ img:hover {
   cursor:pointer;
 }
 
-button:hover{
-  box-shadow: 3px 3px 3px #ccc;
-}
 .img_center{
 	margin-top: 10%;
 }

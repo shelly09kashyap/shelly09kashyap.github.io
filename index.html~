@@ -37,7 +37,7 @@
 		<div href="#">
 		<p id ="bold" class="compName">Aprokart</p>
 		<p class="nicheText">Shop Anywhere</p>
-		<div>
+		<div class="header_static">
 			<nav class="navbar navbar-default navbar-static-top">
 				<div class="container-fluid">
 					<div class="navbar-header">

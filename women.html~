@@ -22,7 +22,7 @@
 	</head>
 	<body>
 		<div class="container">
-			<div class="header">
+			<div class="header header_static">
 				<div class="page-header fadeshow1">
 					<!-- header data -->
 					<p style="font:'Courier New', Courier, monospace; font-size:17px; color:#9b9b9b;">
@@ -74,7 +74,7 @@
 									<li class="dropdown">
 										<a class="dropdown-toggle" data-toggle="dropdown" href="#"> Kids <span class="caret"></span></a>
 										<ul class="dropdown-menu">
-											<li><a href="kis.html">All Footwear</a></li>
+											<li><a href="kid.html">All Footwear</a></li>
 											<li><a href="kid.html">All Cothing</a></li>
 											<li><a href="kid.html">All Watches</a></li>
 											<li><a href="kid.html">All Bags,Belts & Wallets</a></li>
@@ -160,43 +160,43 @@
 					<div><img src="images/grid.png" title="Grid">&nbsp <img src="images/list.png" title="List"></div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men1.jpg"  class="img-responsive"/>
+						<img src="images/fem1.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men2.jpg"  class="img-responsive"/>
+						<img src="images/girl_acc.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men3.jpg"  class="img-responsive"/>
+						<img src="images/fem3.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men7.jpg"  class="img-responsive"/>
+						<img src="images/fem7.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men5.jpg"  class="img-responsive"/>
+						<img src="images/fem5.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men6.jpg"  class="img-responsive"/>
+						<img src="images/fem4.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 				</div>
 			</div>
-		</div><br /><br />
+		</div> <br /><br />
 		<div class="col-md-12 footer" style="background-color:#2a435a ; color:#afcfec;">
 			<br/><br/> 
 			<div>

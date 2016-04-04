@@ -196,33 +196,6 @@
 					</div>
 				</div>
 			</div>
-		</div><br /><br />
-		<div class="col-md-12 footer" style="background-color:#2a435a ; color:#afcfec;">
-			<br/><br/> 
-			<div>
-				<div class="col-md-4">
-					<p  style="font-size:28px;"> Payment methods </p>
-					<p> 	Net Banking<br>
-						Cash On Delivery<br>
-						EMI Conversion<br>
-						E-Gift Voucher<br>
-						Debit/Credit Card  
-					</p>
-				</div>
-				<div class="col-md-4">
-					<p  style="font-size:28px;"> About Us </p>
-					<p> Aprokart is a website made for the purpose of Aproksha'16.  </p>
-				</div>
-				<div class="col-md-4 ">
-					<p style="font-size:28px;"> Contact Us </p>
-					<p> Phone : +919876543210</p>
-					<p> Phone : +919876543210</p>
-					<p> Phone : +919876543210</p>
-				</div>
-				<br /><br />
-				<div class="col-md-offset-4">© 2016 Aprokart . All rights reserved || </div>
-				<br /><br />
-			</div>
 		</div>
 	</body>
 </html>

@@ -74,7 +74,7 @@
 									<li class="dropdown">
 										<a class="dropdown-toggle" data-toggle="dropdown" href="#"> Kids <span class="caret"></span></a>
 										<ul class="dropdown-menu">
-											<li><a href="kis.html">All Footwear</a></li>
+											<li><a href="kid.html">All Footwear</a></li>
 											<li><a href="kid.html">All Cothing</a></li>
 											<li><a href="kid.html">All Watches</a></li>
 											<li><a href="kid.html">All Bags,Belts & Wallets</a></li>
@@ -160,68 +160,41 @@
 					<div><img src="images/grid.png" title="Grid">&nbsp <img src="images/list.png" title="List"></div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men1.jpg"  class="img-responsive"/>
+						<img src="images/kid1.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men2.jpg"  class="img-responsive"/>
+						<img src="images/kid1.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men3.jpg"  class="img-responsive"/>
+						<img src="images/kid1.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men7.jpg"  class="img-responsive"/>
+						<img src="images/kid4.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men5.jpg"  class="img-responsive"/>
+						<img src="images/kid4.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 					<div class="col-md-4"><br/><br/>
 						<span>
-						<img src="images/men6.jpg"  class="img-responsive"/>
+						<img src="images/kid4.jpg"  class="img-responsive"/>
 						</span><br />
 						<button type="button" class="btn btn-primary col-md-offset-3">ADD TO CART</button>
 					</div>
 				</div>
-			</div>
-		</div><br /><br />
-		<div class="col-md-12 footer" style="background-color:#2a435a ; color:#afcfec;">
-			<br/><br/> 
-			<div>
-				<div class="col-md-4">
-					<p  style="font-size:28px;"> Payment methods </p>
-					<p> 	Net Banking<br>
-						Cash On Delivery<br>
-						EMI Conversion<br>
-						E-Gift Voucher<br>
-						Debit/Credit Card  
-					</p>
-				</div>
-				<div class="col-md-4">
-					<p  style="font-size:28px;"> About Us </p>
-					<p> Aprokart is a website made for the purpose of Aproksha'16.  </p>
-				</div>
-				<div class="col-md-4 ">
-					<p style="font-size:28px;"> Contact Us </p>
-					<p> Phone : +919876543210</p>
-					<p> Phone : +919876543210</p>
-					<p> Phone : +919876543210</p>
-				</div>
-				<br /><br />
-				<div class="col-md-offset-4">© 2016 Aprokart . All rights reserved || </div>
-				<br /><br />
 			</div>
 		</div>
 	</body>
